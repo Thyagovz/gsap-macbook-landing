@@ -4,7 +4,7 @@ const navLinks = [
   { label: "iPhone" },
   { label: "Watch" },
   { label: "Vision" },
-  { label: "AirPods/" },
+  { label: "AirPods" },
 ];
 
 const noChangeParts = [
