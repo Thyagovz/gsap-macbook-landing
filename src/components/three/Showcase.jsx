@@ -30,7 +30,7 @@ const Showcase = () => {
       <div className="media">
         <video src="/videos/game.mp4" loop muted autoPlay playsInline />
         <div className="mask">
-          <img src="/mask-logo.svg" />
+          <img src="/mask-logo.svg" alt="" />
         </div>
       </div>
 
@@ -67,12 +67,12 @@ const Showcase = () => {
           <div className="max-w-3xs space-y-14">
             <div className="space-y-2">
               <p>Up to </p>
-              <p>4x faster</p>
+              <h3>4x faster</h3>
               <p>pro rendering performance than M2</p>
             </div>
             <div className="space-y-2">
               <p>Up to </p>
-              <p>1.5x faster</p>
+              <h3>1.5x faster</h3>
               <p>CPU performance than M2</p>
             </div>
           </div>
